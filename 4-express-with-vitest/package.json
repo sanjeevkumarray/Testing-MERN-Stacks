@@ -1,0 +1,24 @@
+{
+  "name": "4-express-with-vitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/supertest": "^6.0.3",
+    "express": "^4.21.2",
+    "supertest": "^7.1.4",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@jest/globals": "^30.2.0",
+    "@types/express": "^5.0.5",
+    "ts-jest": "^29.4.5",
+    "vitest": "^1.6.0"
+  }
+}
